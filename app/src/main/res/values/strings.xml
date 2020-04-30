@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flames</string>
+    <string name="Boy">"Boy's Name"</string>
+    <string name="Girl">"Girl's Name"</string>
+    <string name="Result">"Result"</string>
+    <string name="Error">"Please Give Necessary Input"</string>
+</resources>
